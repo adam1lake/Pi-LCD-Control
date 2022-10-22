@@ -1,2 +1,8 @@
 # Pi-LCD
-An all-encompassing interface to the common 16x2 Raspberry Pi LCD screen: the LCD1602 module.
+A simple interface to common 16x2 Raspberry Pi LCD screens (HD44780).
+Includes useful features such as:
+- Text display
+- Timeouts and delays
+- Text scrolling
+- Threading to allow for control of both lines separately
+- Logic to prevent display "glitches" when performing multiple operations at once
