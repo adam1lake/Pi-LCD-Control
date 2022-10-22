@@ -1,0 +1,6 @@
+.idea
+build
+dist
+PiLCDControl.egg-info
+*.bat
+test.py
